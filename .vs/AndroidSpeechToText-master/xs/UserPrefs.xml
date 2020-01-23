@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{4B565C6E-8959-4709-D8E2-973ABA858446}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SwapModels.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SwapModels.cs" Line="28" Column="39" />
+      <File FileName="Assets/Scripts/LightController.cs" Line="14" Column="6" />
+      <File FileName="Assets/Scripts/Toggler.cs" Line="11" Column="15" />
+      <File FileName="Assets/Scripts/CalibrateLightEstimation.cs" Line="33" Column="97" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AndroidSpeechToText-master" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GoogleARCore" expanded="True">
+                <Node name="Examples" expanded="True">
+                  <Node name="CloudAnchors" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                  <Node name="Common" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                  <Node name="HelloAR" expanded="True">
+                    <Node name="Scripts" expanded="True" />
+                  </Node>
+                  <Node name="ObjectManipulation" expanded="True">
+                    <Node name="Scripts" expanded="True">
+                      <Node name="Manipulators" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+                <Node name="SDK" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Neuston" expanded="True">
+                <Node name="ARCoreUtils" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="SwapModels.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="99b39bce-a798-4659-a418-d893e67278af" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

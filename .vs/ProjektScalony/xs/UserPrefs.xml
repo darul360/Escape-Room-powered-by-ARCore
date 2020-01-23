@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{911C3948-602D-B61A-E0C9-286EA0ED5D21}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PhoneCamera.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PhoneCamera.cs" Line="183" Column="34" />
+      <File FileName="Assets/Scripts/Detector.cs" Line="45" Column="50" />
+      <File FileName="../../../Downloads/TensorFlowSharp-master/Examples/ExampleObjectDetection/Program.cs" Line="1" Column="1" />
+      <File FileName="../../../Downloads/TensorFlowSharp-master/Examples/ExampleObjectDetection/ImageEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/coco_labels_list.txt" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/VoiceTest.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/VoiceController.cs" Line="40" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProjektScalony" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="be1ba62b-5e1b-4c79-bab2-ac57b3ccfb9b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
