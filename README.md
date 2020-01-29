@@ -1,6 +1,10 @@
-# AndroidSpeechToTextPluginForUnity
-Android speech to text plugin for Unity with no modal or pop up box.
-There is a test.apk if you want to just try it out. 
-The Android studio project for the plugin is here if you want to recompile it.
-The plugin was made using this library for Android:
-https://github.com/maxwellobi/Android-Speech-Recognition
+# Features
+
+Thesis project. It's a combination of ARCore, Tensorflow and Google Speech to Text API.
+
+Object recognition made by Syn-McJ : https://github.com/Syn-McJ/TFClassify-Unity
+Google Speech to Text API made by MatthewHallberg : https://github.com/MatthewHallberg/AndroidSpeechToText
+
+
+![Test Image 1](1.png)
+
